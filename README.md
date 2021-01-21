@@ -1,2 +1,2 @@
 # TOKI_C_Language
-the answer for toki learning using c language in indonesian
+the answer for toki learning using c language
